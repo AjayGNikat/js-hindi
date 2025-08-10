@@ -19,5 +19,5 @@ let state;
 //Symbol =>Uniqueness Representation.
 
 //Objects
-console.log(typeof(null))
-console.log(typeof(state))
+console.log(typeof(null));  //object
+console.log(typeof(state))  //undefined
