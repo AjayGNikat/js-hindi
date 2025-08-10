@@ -18,7 +18,6 @@ console.log(id===anotherId);  //false
 
 const bigNumber=345659416416416486466n
 
-
 // # Reference  (can get  Reference)
 
 //Array, Objects, Functions.....
