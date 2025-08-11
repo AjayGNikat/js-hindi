@@ -36,3 +36,25 @@ const myFunction=function(){
 console.log(typeof(bigNumber))
 console.log(typeof(heros));
 console.log(typeof(myFunction));
+
+//***************************Stack (primitive) , Heap (non-primitive)***********************************
+let myYoutubename="hiteshchaudharydot.com"
+let anotherName = myYoutubename
+anotherName="Chaiaurcode"
+
+console.log(myYoutubename);
+console.log(anotherName);
+
+let userOne={
+    email:"user@google.com",
+    upi:"user@ybl",
+}
+
+let userTwo=userOne
+userTwo.email="hitesh@google.com"
+
+console.log(userOne)
+console.log(userTwo)
+
+
+
